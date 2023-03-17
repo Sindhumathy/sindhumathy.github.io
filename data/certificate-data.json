@@ -1,0 +1,31 @@
+[{
+    "id":1,
+    "logo":"google.png",
+    "title":"Google Digital Academy (Skillshop)",
+    "description":"",
+    "issuedDate":"Issued Mar 2022",
+    "credentialID":"Credential ID 109494864",
+    "credentialURL":"https://skillshop.exceedlms.com/profiles/cc9578565b9c4d54a264f3cc23577e61"
+
+},
+{
+    "id":2,
+    "logo":"youtube.png",
+    "title":"YouTube Music Certification",
+    "description":"",
+    "issuedDate":"Issued Sep 2021",
+    "credentialID":"Credential ID 65206496",
+    "credentialURL":"https://skillshop.exceedlms.com/student/award/4m6W8rnR9psovXrrsvZ1vBWe"
+
+},
+{
+    "id":3,
+    "logo":"reuters.png",
+    "title":"Reuters Training Course: Introduction to Digital Journalism",
+    "description":"",
+    "issuedDate":"Issued Aug 2021",
+    "credentialID":"",
+    "credentialURL":"https://reutersdigitaljournalism.com/course_completed?l=en"
+
+}
+]
