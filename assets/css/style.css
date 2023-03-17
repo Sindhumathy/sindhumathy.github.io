@@ -735,6 +735,104 @@ section {
   font-size: 14px;
 }
 
+
+/*--------------------------------------------------------------
+# Certificate
+--------------------------------------------------------------*/
+.certificate .icon-box {
+  margin-bottom: 20px;
+}
+
+.certificate .icon {
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  transition: 0.5s;
+  border: 1px solid #000000;
+}
+
+.certificate .icon i {
+  color: #fff;
+  font-size: 24px;
+  line-height: 0;
+}
+
+.certificate .icon-box:hover .icon {
+  background: #fff;
+}
+
+.certificate .icon-box:hover .icon  {
+  border: 1px solid #149ddd;
+ 
+}
+
+.certificate .icon img {
+  width: 50px;
+  height: 50px;
+}
+
+.certificate .title {
+  margin-left: 80px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.certificate .title a {
+  color: #343a40;
+}
+
+.certificate .title a:hover {
+  color: #149ddd;
+}
+
+.certificate .description {
+  margin-left: 80px;
+  margin-top: -10px;
+  line-height: 20px;
+  font-size: 14px;
+  width: 230px;
+
+}
+.certificate .issuedDate {
+  margin-left: 80px;
+  margin-top: -10px;
+  line-height: 20px;
+  font-size: 14px;
+  width: 230px;
+
+}
+
+.certificate .credentialID {
+  margin-left: 80px;
+  margin-top: -15px;
+  line-height: 20px;
+  font-size: 14px;
+  width: 230px;
+
+}
+
+
+
+.certificate .btn {
+  margin-left: 77px;
+  line-height: 18px;
+  font-size: 14px;
+  border-radius: 50px;
+  position: absolute;
+  bottom: -20px;
+}
+
+.certificate .fa {
+  margin-left: 8px;
+  
+
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
