@@ -14,13 +14,17 @@ Easy navigation
 Portfolio section showcasing my projects
 Contact form for potential clients or collaborators
 
+Live Demo
+https://sindhumathy.github.io/
+
+
 
 Installation
 To run this website locally, you can clone the repository:
 
 bash
-git clone https://github.com/sindhumathy/sindhumathy.github.io.git
 
+git clone https://github.com/sindhumathy/sindhumathy.github.io.git
 Usage
 To view the website locally, simply open the index.html file in your browser.
 
