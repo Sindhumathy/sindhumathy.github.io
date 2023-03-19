@@ -20,12 +20,42 @@
 },
 {
     "id":3,
+    "logo":"googleAds.png",
+    "title":"Google Ads Creative Certification",
+    "description":"",
+    "issuedDate":"Issued Oct 2022",
+    "credentialID":"Credential ID 130389852",
+    "credentialURL":"https://skillshop.credential.net/73088aa2-338c-4c30-8165-83df898e4280"
+
+},
+{
+    "id":4,
     "logo":"reuters.png",
     "title":"Reuters Training Course: Introduction to Digital Journalism",
     "description":"",
     "issuedDate":"Issued Aug 2021",
     "credentialID":"",
     "credentialURL":"https://reutersdigitaljournalism.com/course_completed?l=en"
+
+},
+{
+    "id":5,
+    "logo":"google-partner.jpg",
+    "title":"Business Exams Certified in GOOGLE PARTNER",
+    "description":"",
+    "issuedDate":"-",
+    "credentialID":"",
+    "credentialURL":"https://www.google.com/partners/become-a-partner/"
+
+},
+{
+    "id":6,
+    "logo":"inbound.webp",
+    "title":"Inbound Certified",
+    "description":"",
+    "issuedDate":"Issued Jun 2021",
+    "credentialID":"-",
+    "credentialURL":"https://app.hubspot.com/academy/achievements/dkfkt74c/en/1/sindhu-mathy/inbound"
 
 }
 ]
