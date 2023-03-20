@@ -7,7 +7,7 @@ const returnPortfolioCard = (data_val) => {
         <div class="portfolio-wrap">
         <a href="portfolio-details.html?id=${val.id}">
           <img
-            src="${val.logo}"
+            src="${val.cardImage}"
             class="img-fluid"
             alt=""
           />

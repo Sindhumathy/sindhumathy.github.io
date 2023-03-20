@@ -14,6 +14,7 @@ const returnBanner = (data_val) => {
     (val) =>
       `<div class="swiper-slide">
       <img
+        class="swiper-slide-image"
         src="${val}"
         alt=""
       />
