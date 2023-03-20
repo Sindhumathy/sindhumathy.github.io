@@ -10,7 +10,7 @@ fetch("data/certificate-data.json")
               <div class="icon">
                 <img src="/assets/certifacteLogos/${val.logo}" class="logo">              
               </div>
-              <h4 class="title"><a href="">${val.title}</a></h4>
+              <h4 class="title"><a href="${val.credentialURL}">${val.title}</a></h4>
               <p class="description"></p>
               <p class="issuedDate">${val.issuedDate}</p>
               <p class="credentialID">${val.credentialID}</p>
