@@ -32,17 +32,17 @@
       {
         "title": "Enquiries within Two months",
         "value": "1500 +",
-        "iconName": ""
+        "iconName": "bi bi-headset"
       },
       {
         "title": "Increase in Web traffic ",
         "value": "85%",
-        "iconName": ""
+        "iconName": "bi bi-journal-richtext"
       },
       {
         "title": "Likes increased by within two months",
         "value": "8000",
-        "iconName": ""
+        "iconName": "bi bi-hand-thumbs-up"
       }
     ],
     "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
