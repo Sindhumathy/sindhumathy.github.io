@@ -326,6 +326,26 @@ section {
   left: 0;
 }
 
+.section-title h3 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #173b6c;
+}
+
+.section-title h3::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #149ddd;
+  bottom: 0;
+  left: 0;
+}
+
 .section-title p {
   margin-bottom: 0;
 }
@@ -401,6 +421,14 @@ section {
   font-size: 14px;
   color: #122f57;
 }
+.facts .count-box h6 {
+ margin-top: 12px;
+ padding-left: 10px;
+ font-weight: 800;
+font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  color: #122f57;
+}
 
 .facts .count-box a {
   font-weight: 600;
@@ -415,6 +443,42 @@ section {
 .facts .count-box a:hover {
   color: #1f5297;
 }
+
+
+/* goals */
+.goals {
+  padding-bottom: 30px;
+  
+}
+
+.goals .count-box {
+  padding-left: 30px;
+  width: 100%;
+}
+
+.goals .count-box i {
+  display: block;
+  font-size: 44px;
+  color: #149ddd;
+  float: left;
+  line-height: 0;
+  margin-right: 20px;
+}
+
+
+
+.goals .count-box p {
+  margin-top: 12px;
+  padding-left: 10px;
+  font-weight: 800;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  color: #122f57;
+  
+}
+
+
+/* goals */
 
 /*--------------------------------------------------------------
 # Akills
@@ -563,9 +627,24 @@ margin-left: 20px;
   overflow: hidden;
   z-index: 1;
 }
+.portfolio .portfolio-wrap :hover {
+  opacity: 0.7;
 
+ 
+  
+}
+
+
+.portfolio .portfolio-wrap img {
+  
+  background: rgba(255, 255, 255, 0.5);
+  height: 220px;
+  object-fit: contain;
+ 
+  
+}
 .portfolio .portfolio-wrap::before {
-  content: "";
+
   background: rgba(255, 255, 255, 0.5);
   position: absolute;
   left: 0;
@@ -650,6 +729,11 @@ margin-left: 20px;
 .portfolio-details .portfolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(5, 13, 24, 0.08);
+}
+
+.portfolio-details .portfolio-info img {
+  margin-bottom: 30px;
+  object-fit: contain;
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -1212,27 +1296,21 @@ margin-left: 20px;
 /* page loader */
 
 .loader-wrapper {
-  
-  justify-content: center;
-  align-items: center;
-
-  position: fixed;
-  top: 0;
-  left: 0;
+ position: fixed;
+  padding-top: 50%;
   width: 100%;
   height: 100%;
   background-color: #242f3f;
   z-index: 9999;
+ 
 }
 .loader {
   display: inline-block;
   width: 30px;
   height: 30px;
-  position: absolute;
-  top: 50%;
-  left: 47%;
-  margin-top: -60px;
-  margin-left: 0px;
+  
+  margin: auto;
+ 
   border: 4px solid #Fff;
   animation: loader 2s infinite ease;
 }

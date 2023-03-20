@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Astoria Colombo",
+    "title": "A Brand-new Luxury Apartment",
+    "logo": "assets/img/portfolio/AstoriaColombo/image1.png",
+    "description": "Astoria Colombo offers a range of luxury condominiums in Sri Lanka that are too beautiful to be true. Located in the heart of Colombo, Astoria stands tall on Deal Place, Colombo 3, surrounded by the best Colombo has to offer. With shopping malls, cinemas, restaurants and hotels just a stone’s throw away, Astoria lets the occupiers be part of modern living in Colombo that is changing lifestyles in Sri Lanka. Astoria also offers great investment opportunities in Sri Lanka for anyone interested in tapping into Colombo real estate.",
+    "goals": [
+      { "goal": "Brand Awareness", "iconName": "" },
+      { "goal": "Website Traffic", "iconName": "" },
+      { "goal": "Generate Inquiries", "iconName": "" }
+    ],
+    "Approach": [
+      "Did comprehensive market research to analyze the target audience and how to target them.",
+      "Luxury real-estate buyers also like exclusivity, so while we’re marketing Astoria projects, suggest using pronouns that personalize the social campaigns and directly spoke to their psyche.",
+      "A luxury buyer is very aware of the market scenario and intelligent enough to take a very calculated decision. Understanding this helped my campaigns generate quality leads.",
+      "Based on the analysis ran different types of campaigns which further brought down the costs by using call action catch analysis and generating leads.",
+      "Approached the audience with all types of creative ads like Carousel Ads, Lead Ads, 360*Ads, Google Display Ads & Search Ads. Which was effective to drive more traffic and also increased more new followers."
+    ],
+    "StrategiesUsed": [
+      "A complete digital marketing strategy was compiled for the client.",
+      "Created an efficient content marketing strategy.",
+      "Created a community for the audience.",
+      "Jazzed up the profile with diverse e content strategy.",
+      "Created profiles on the relevant channels.",
+      "Established a social media budget.",
+      "Ran cross-channel campaigns.",
+      "Keyword Research and Planning",
+      "Monthly SEO on Page Audit"
+    ],
+    "Results": [
+      {
+        "title": "Enquiries within Two months",
+        "value": "1500 +",
+        "iconName": ""
+      },
+      {
+        "title": "Increase in Web traffic ",
+        "value": "85%",
+        "iconName": ""
+      },
+      {
+        "title": "Likes increased by within two months",
+        "value": "8000",
+        "iconName": ""
+      }
+    ],
+    "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
+    "banner": [
+      "../assets/img/portfolio/AstoriaColombo/image1.png",
+      "../assets/img/portfolio/AstoriaColombo/portfolio-2.jpg",
+      "../assets/img/portfolio/AstoriaColombo/portfolio-3.jpg",
+      "../assets/img/portfolio/AstoriaColombo/portfolio-4.jpg",
+      "../assets/img/portfolio/AstoriaColombo/portfolio-5.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Astoria Colombo",
+    "title": "A Brand-new Luxury Apartment",
+    "logo": "../assets/img/portfolio/AstoriaColombo/portfolio-1.jpg",
+    "description": "Astoria Colombo offers a range of luxury condominiums in Sri Lanka that are too beautiful to be true. Located in the heart of Colombo, Astoria stands tall on Deal Place, Colombo 3, surrounded by the best Colombo has to offer. With shopping malls, cinemas, restaurants and hotels just a stone’s throw away, Astoria lets the occupiers be part of modern living in Colombo that is changing lifestyles in Sri Lanka. Astoria also offers great investment opportunities in Sri Lanka for anyone interested in tapping into Colombo real estate.",
+    "goals": [
+      { "goal": "Brand Awareness", "iconName": "" },
+      { "goal": "Website Traffic", "iconName": "" },
+      { "goal": "Generate Inquiries", "iconName": "" }
+    ],
+    "Approach": [
+      "Did comprehensive market research to analyze the target audience and how to target them.",
+      "Luxury real-estate buyers also like exclusivity, so while we’re marketing Astoria projects, suggest using pronouns that personalize the social campaigns and directly spoke to their psyche.",
+      "A luxury buyer is very aware of the market scenario and intelligent enough to take a very calculated decision. Understanding this helped my campaigns generate quality leads.",
+      "Based on the analysis ran different types of campaigns which further brought down the costs by using call action catch analysis and generating leads.",
+      "Approached the audience with all types of creative ads like Carousel Ads, Lead Ads, 360*Ads, Google Display Ads & Search Ads. Which was effective to drive more traffic and also increased more new followers."
+    ],
+    "StrategiesUsed": [
+      "A complete digital marketing strategy was compiled for the client.",
+      "Created an efficient content marketing strategy.",
+      "Created a community for the audience.",
+      "Jazzed up the profile with diverse e content strategy.",
+      "Created profiles on the relevant channels.",
+      "Established a social media budget.",
+      "Ran cross-channel campaigns.",
+      "Keyword Research and Planning",
+      "Monthly SEO on Page Audit"
+    ],
+    "Results": [
+      {
+        "title": "Enquiries within Two months",
+        "value": "1500 +",
+        "iconName": ""
+      },
+      {
+        "title": "Increase in Web traffic ",
+        "value": "85%",
+        "iconName": ""
+      },
+      {
+        "title": "Likes increased by within two months",
+        "value": "8000",
+        "iconName": ""
+      }
+    ],
+    "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
+    "banner": [
+      "../assets/img/portfolio/AstoriaColombo/portfolio-1.jpg",
+      "../assets/img/portfolio/AstoriaColombo/portfolio-2.jpg",
+      "../assets/img/portfolio/AstoriaColombo/portfolio-3.jpg",
+      "../assets/img/portfolio/AstoriaColombo/portfolio-4.jpg",
+      "../assets/img/portfolio/AstoriaColombo/portfolio-5.jpg"
+    ]
+  }
+]
