@@ -6,9 +6,9 @@
     "logo": "assets/img/portfolio/AstoriaColombo/image1.png",
     "description": "Astoria Colombo offers a range of luxury condominiums in Sri Lanka that are too beautiful to be true. Located in the heart of Colombo, Astoria stands tall on Deal Place, Colombo 3, surrounded by the best Colombo has to offer. With shopping malls, cinemas, restaurants and hotels just a stone’s throw away, Astoria lets the occupiers be part of modern living in Colombo that is changing lifestyles in Sri Lanka. Astoria also offers great investment opportunities in Sri Lanka for anyone interested in tapping into Colombo real estate.",
     "goals": [
-      { "goal": "Brand Awareness", "iconName": "" },
-      { "goal": "Website Traffic", "iconName": "" },
-      { "goal": "Generate Inquiries", "iconName": "" }
+      { "goal": "Brand Awareness", "iconName": "bi bi-award" },
+      { "goal": "Website Traffic", "iconName": "bi bi-globe2" },
+      { "goal": "Generate Inquiries", "iconName": "bi bi-binoculars" }
     ],
     "Approach": [
       "Did comprehensive market research to analyze the target audience and how to target them.",
