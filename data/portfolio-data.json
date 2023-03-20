@@ -4,6 +4,7 @@
     "name": "Astoria Colombo",
     "title": "A Brand-new Luxury Apartment",
     "logo": "assets/img/portfolio/AstoriaColombo/image1.png",
+    "cardImage": "assets/img/portfolio/AstoriaColombo/card.png",
     "description": "Astoria Colombo offers a range of luxury condominiums in Sri Lanka that are too beautiful to be true. Located in the heart of Colombo, Astoria stands tall on Deal Place, Colombo 3, surrounded by the best Colombo has to offer. With shopping malls, cinemas, restaurants and hotels just a stone’s throw away, Astoria lets the occupiers be part of modern living in Colombo that is changing lifestyles in Sri Lanka. Astoria also offers great investment opportunities in Sri Lanka for anyone interested in tapping into Colombo real estate.",
     "goals": [
       { "goal": "Brand Awareness", "iconName": "bi bi-award" },
@@ -48,65 +49,267 @@
     "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
     "banner": [
       "../assets/img/portfolio/AstoriaColombo/image1.png",
-      "../assets/img/portfolio/AstoriaColombo/portfolio-2.jpg",
-      "../assets/img/portfolio/AstoriaColombo/portfolio-3.jpg",
-      "../assets/img/portfolio/AstoriaColombo/portfolio-4.jpg",
-      "../assets/img/portfolio/AstoriaColombo/portfolio-5.jpg"
+      "../assets/img/portfolio/AstoriaColombo/image2.jpg",
+      "../assets/img/portfolio/AstoriaColombo/image3.jpg",
+      "../assets/img/portfolio/AstoriaColombo/image4.jpg",
+      "../assets/img/portfolio/AstoriaColombo/image5.png",
+      "../assets/img/portfolio/AstoriaColombo/image6.png",
+      "../assets/img/portfolio/AstoriaColombo/image7.png",
+      "../assets/img/portfolio/AstoriaColombo/image8.png"
     ]
   },
   {
     "id": 2,
-    "name": "Astoria Colombo",
-    "title": "A Brand-new Luxury Apartment",
-    "logo": "../assets/img/portfolio/AstoriaColombo/portfolio-1.jpg",
-    "description": "Astoria Colombo offers a range of luxury condominiums in Sri Lanka that are too beautiful to be true. Located in the heart of Colombo, Astoria stands tall on Deal Place, Colombo 3, surrounded by the best Colombo has to offer. With shopping malls, cinemas, restaurants and hotels just a stone’s throw away, Astoria lets the occupiers be part of modern living in Colombo that is changing lifestyles in Sri Lanka. Astoria also offers great investment opportunities in Sri Lanka for anyone interested in tapping into Colombo real estate.",
+    "name": "RE/MAX COMMUNITY REALTY INC. BROKERAGE",
+    "title": "RE/MAX COMMUNITY REALTY INC. BROKERAGE",
+    "logo": "assets/img/portfolio/re-max/image1.png",
+    "cardImage": "assets/img/portfolio/re-max/card.png",
+    "description": "RE/MAX Community Realty Inc. Brokerage founded with the vision of pursuing the New Era of Real Estate. They aim to provide clients and agents with more exposure, brand value, innovation and quality service. Team of RE/MAX Community Realty is committed to providing the highest level of representation and top-notch customer service for our clients with an in-depth understanding of the ever-evolving marketplace which sets us apart from the rest.",
     "goals": [
-      { "goal": "Brand Awareness", "iconName": "" },
-      { "goal": "Website Traffic", "iconName": "" },
-      { "goal": "Generate Inquiries", "iconName": "" }
+      { "goal": "Brand Awareness", "iconName": "bi bi-award" },
+      {
+        "goal": "Get Cv’s or Generate Leads from specific target audience (Job Seekers who intrested to work in real estate field)  ",
+        "iconName": "bi bi-globe2"
+      }
     ],
     "Approach": [
-      "Did comprehensive market research to analyze the target audience and how to target them.",
-      "Luxury real-estate buyers also like exclusivity, so while we’re marketing Astoria projects, suggest using pronouns that personalize the social campaigns and directly spoke to their psyche.",
-      "A luxury buyer is very aware of the market scenario and intelligent enough to take a very calculated decision. Understanding this helped my campaigns generate quality leads.",
-      "Based on the analysis ran different types of campaigns which further brought down the costs by using call action catch analysis and generating leads.",
-      "Approached the audience with all types of creative ads like Carousel Ads, Lead Ads, 360*Ads, Google Display Ads & Search Ads. Which was effective to drive more traffic and also increased more new followers."
+      "Run Google & Facebook /LinkedIn  Ad campaigns to get qualified leads",
+      "Suggested Tiktok / Instagram Reels for Branding Purpose ",
+      "RE/MAX Branding Posts / Benefits Posts / Tips & Latest Trends Posts / Videos / Current Agent Posts, Reviews"
     ],
     "StrategiesUsed": [
-      "A complete digital marketing strategy was compiled for the client.",
-      "Created an efficient content marketing strategy.",
-      "Created a community for the audience.",
-      "Jazzed up the profile with diverse e content strategy.",
-      "Created profiles on the relevant channels.",
-      "Established a social media budget.",
-      "Ran cross-channel campaigns.",
-      "Keyword Research and Planning",
-      "Monthly SEO on Page Audit"
+      "Analyzing keyword research and hashtag trends to inform the development of an editorial calendar for engaging, shareable content",
+      "Developing and implementing monthly social media calendars",
+      "Form an intensive social media and digital marketing plan and subsequent campaigns",
+      "Email marketing to keep the audience abreast with the happenings at RE/MAX. Emails will be a means to keep the leads interested in the brand.",
+      "Developing a FaceFacebook-promotedt strategy to increase overall reach and engagement with Facebook content and improve the standing with the Facebook algorithm",
+      "Agent retention and recruitment, offering the ability to reach the agent base with calculated targeting and frequency, improving faith in the tactics and also improving lead conversion",
+      "Targeted existing Real Estate agents at competing brokers for recruitment."
     ],
     "Results": [
       {
-        "title": "Enquiries within Two months",
-        "value": "1500 +",
-        "iconName": ""
+        "title": "Increase in brand awareness",
+        "value": "70%",
+        "iconName": "bi bi-award"
       },
       {
-        "title": "Increase in Web traffic ",
-        "value": "85%",
-        "iconName": ""
+        "title": "Higher ROI from video ads",
+        "value": "60%",
+        "iconName": "bi bi-camera-reels"
       },
       {
-        "title": "Likes increased by within two months",
-        "value": "8000",
-        "iconName": ""
+        "title": "Leads & Job Applications",
+        "value": "700+",
+        "iconName": "bi bi-card-heading"
       }
     ],
     "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
     "banner": [
-      "../assets/img/portfolio/AstoriaColombo/portfolio-1.jpg",
-      "../assets/img/portfolio/AstoriaColombo/portfolio-2.jpg",
-      "../assets/img/portfolio/AstoriaColombo/portfolio-3.jpg",
-      "../assets/img/portfolio/AstoriaColombo/portfolio-4.jpg",
-      "../assets/img/portfolio/AstoriaColombo/portfolio-5.jpg"
+      "../assets/img/portfolio/re-max/image1.png",
+      "../assets/img/portfolio/re-max/image2.png",
+      "../assets/img/portfolio/re-max/image3.png",
+      "../assets/img/portfolio/re-max/image4.png",
+      "../assets/img/portfolio/re-max/image5.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Limitless Energy Drinks ",
+    "title": "Limitless Energy Drinks ",
+    "logo": "assets/img/portfolio/limitless/image1.png",
+    "cardImage": "assets/img/portfolio/limitless/card.png",
+    "description": "Limitless Energy is the natural alternative to traditional energy drinks. Derived from green tea extract, never synthesised, Limitless Energy drinks contain only natural caffeine. When you need mental focus and physical energy, ensure you drink only the highest quality natural caffeine - our caffeine hit lasts longer than most, with no peaks, no troughs, no jitters and no crash. 100% Natural | 100% Vegan | Zero Caffeine | Low Calorie",
+    "goals": [
+      { "goal": "Brand Awareness", "iconName": "bi bi-award" },
+      {
+        "goal": "Sell Products through Shopify",
+        "iconName": "bi bi-bag"
+      },
+      { "goal": "Website Traffic", "iconName": "bi bi-globe2" }
+    ],
+    "Approach": [
+      "Suggested Basic Website SEO Audit",
+      "Snapchat & TikTok Campaigns",
+      "Implemented Google ads by connecting google merchant center",
+      "Display Ads",
+      "Boosted Review from specific Target Audience",
+      "Boosted Review from specific Target Audience"
+    ],
+    "StrategiesUsed": [
+      "Influencer Marketing",
+      "Listed in third Party websites (Amazon)",
+      "Share more  Reels & Tik Tok Videos",
+      "Video Challengers",
+      "Host Giveaways",
+      "Google Merchant Ads through Google Adwords"
+    ],
+    "Results": [
+      {
+        "title": "Orders through Shopify + Google Ads",
+        "value": "50+",
+        "iconName": "bi bi-bag-check"
+      },
+      {
+        "title": "Higher ROI from video ads",
+        "value": "65%",
+        "iconName": "bi bi-camera-reels"
+      }
+    ],
+    "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
+    "banner": [
+      "../assets/img/portfolio/limitless/image2.png",
+      "../assets/img/portfolio/limitless/image1.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Blue Lotus Vacations Uk  ",
+    "title": "Blue Lotus Vacations Uk",
+    "logo": "assets/img/portfolio/BlueLotus/image1.png",
+    "cardImage": "assets/img/portfolio/BlueLotus/image2.png",
+    "description": "At Blue Lotus we are refining the needs of universal travellers, delivering uncompromised travel solutions to our clientele, we have been obstinate on our safe and fluent service protocol to cater the needs of our customers. Delivering high quality travel services to all prime global travel destinations.",
+    "goals": [
+      {
+        "goal": "Generate Calls through Google",
+        "iconName": "bi bi-headset"
+      }
+    ],
+    "Approach": [
+      "Generate Calls through Google",
+      "Call Ads and Search Ads for Flights + Hotel",
+      "Added FAQ Schema Markup for Relevant Page"
+    ],
+    "StrategiesUsed": [
+      "In Google AdWords Restructured the Campaigns with different keywords + different countries",
+      "Keyword research to identify any gaps and opportunities",
+      "Implemented Responsive Search Ads through Google Ads",
+      "Implemented Call Ads through Google Ads",
+      "Ensured sale and promotion messaging was prominent in headlines and extensions",
+      "Created YouTube campaigns to maximise awareness"
+    ],
+    "Results": [
+      {
+        "title": "REDUCTION IN CPA",
+        "value": "17%",
+        "iconName": "bi bi-headset"
+      },
+      {
+        "title": "Calls within two months",
+        "value": "800+",
+        "iconName": "bi bi-telephone-inbound"
+      },
+      {
+        "title": "Conversion value",
+        "value": "+34%",
+        "iconName": "bi bi-journal-richtext"
+      }
+    ],
+    "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
+    "banner": [
+      "../assets/img/portfolio/BlueLotus/image2.png",
+      "../assets/img/portfolio/BlueLotus/image1.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Namaste India",
+    "title": "Namaste India",
+    "logo": "assets/img/portfolio/NamasteIndia/image1.png",
+    "cardImage": "assets/img/portfolio/NamasteIndia/card.png",
+    "description": "Namaste India is a fully licensed Indian restaurant operating in UK specialized in serving authentic Indian Cuisine such as: North Indian, South Indian and Vegetarian food. For more than 35 years Namaste India brings the sublime and complex flavours of the Indian epicurean heritage and they use the freshest ingredients to make sure their customers’ experience with them is delightful.",
+    "goals": [
+      {
+        "goal": "Brand Awareness",
+        "iconName": "bi bi-award"
+      },
+      {
+        "goal": "Food Online Orders",
+        "iconName": "bi bi-cup-straw"
+      }
+    ],
+    "Approach": [
+      "Increase brand awareness",
+      "Getting Order through Namaste India App",
+      "Provide attractive offers & promotions to the audience",
+      "Host contests & giveaways",
+      "Suggested to do more videos to reach the audience",
+      "Implement content strategy for each social media channel",
+      "Instagram stories, reels and Tiktok",
+      "Listed in Third Party Food Ordering & Delivery Apps "
+    ],
+    "StrategiesUsed": [
+      "Clean, attractive and appealing designs were used and uploaded on social media platforms like Facebook and Instagram.",
+      "Integrate Facebook & Instagram Shop Tab",
+      "Select and separate our target audience from a wide pool of people. So created a marketing funnel that narrowed them down even further to a strong set.",
+      "Targeting audiences interested in food and trying out different food within the area. Radius targeting was done to achieve this feet and our ads targeted specific genres of people.",
+      "Offers and offer ads were used for retargeting customers who have already engaged with the brand.",
+      "Reposting customer photos for future brand growth.",
+      "Shared customer reviews in all the social media channels",
+      "Started Promotions & Offers : Student Promotions / App Order Promo"
+    ],
+    "Results": [
+      {
+        "title": "Increase in social media brand awareness",
+        "value": "55% +",
+        "iconName": "bi bi-globe"
+      },
+      {
+        "title": "Increase in orders placed",
+        "value": "25%",
+        "iconName": "bi bi-shop"
+      }
+    ],
+    "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
+    "banner": [
+      "../assets/img/portfolio/NamasteIndia/image2.png",
+      "../assets/img/portfolio/NamasteIndia/image1.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Franco",
+    "title": "Franco",
+    "logo": "assets/img/portfolio/Franco/image1.png",
+    "cardImage": "assets/img/portfolio/Franco/image2.png",
+    "description": "",
+    "goals": [
+      {
+        "goal": "Brand Awareness",
+        "iconName": "bi bi-award"
+      },
+      {
+        "goal": "Increase Online Sales through Website / Social Media",
+        "iconName": "bi bi-globe2"
+      }
+    ],
+    "Approach": [
+      "Running Shop Ads – Facebook & Instagram",
+      "Increasing Instagram Reels",
+      "Upload all the products in Google My Business as well",
+      "Basic On Page SEO Audit to start the PPC Shopping Campaigns "
+    ],
+    "StrategiesUsed": [
+      "Implemented Facebook Catalog Manager",
+      "Integrated Facebook & Instagram Shop Tab",
+      "Discounts and promotions for Return Customers",
+      "Sign-up offers for new customers"
+    ],
+    "Results": [
+      {
+        "title": "Sale Increase",
+        "value": "35% +",
+        "iconName": "bi bi-bar-chart"
+      },
+      {
+        "title": "ROAS",
+        "value": "9.4x",
+        "iconName": "bi bi-journal-richtext"
+      }
+    ],
+    "Note": "Strategy & Design Concept Guidelines provided by myself. Actual Design is done by designer",
+    "banner": [
+      "../assets/img/portfolio/Franco/image2.png",
+      "../assets/img/portfolio/Franco/image1.png"
     ]
   }
 ]
