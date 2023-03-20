@@ -636,9 +636,10 @@ margin-left: 20px;
 
 
 .portfolio .portfolio-wrap img {
+  width: 100%;
   
   background: rgba(255, 255, 255, 0.5);
-  height: 220px;
+  height: 210px;
   object-fit: contain;
  
   
