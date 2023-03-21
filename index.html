@@ -613,7 +613,7 @@
                 <p></p>
               </div>
               <div class="resume-item">
-                <h4>Completed Nrithya Visharada Dance Degree </h4>
+                <h4>Completed Nrithya Visharada Dance Degree</h4>
                 <h5>2019 - 2023</h5>
                 <p><em>Bhatkhande Sangit Vidyapith, Bharatham</em></p>
                 <p></p>
@@ -932,6 +932,7 @@
                 method="post"
                 role="form"
                 class="php-email-form"
+                id="message-form"
               >
                 <div class="row">
                   <div class="form-group col-md-6">
@@ -970,6 +971,7 @@
                   <textarea
                     class="form-control"
                     name="message"
+                    id="message"
                     rows="10"
                     required
                   ></textarea>
@@ -1030,6 +1032,20 @@
         $(".loader-wrapper").fadeOut("slow");
       });
     </script>
+
+    <!-- email js -->
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"
+    ></script>
+
+    <script type="text/javascript">
+      (function () {
+        emailjs.init("OeL-EpfnRAMmpOPbH");
+      })();
+    </script>
+
+    <!-- email js -->
 
     <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
     <script src="assets/vendor/php-email-form/validate.js"></script>
