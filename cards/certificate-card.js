@@ -8,13 +8,39 @@ fetch("data/certificate-data.json")
         (val) =>
           `<div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
               <div class="icon">
-                <img src="/assets/certifacteLogos/${val.logo}" class="logo">              
+                <img src="/assets/certifacteLogos/${
+                  val.logo
+                }" class="logo">              
               </div>
-              <h4 class="title"><a href="${val.credentialURL}">${val.title}</a></h4>
-              <p class="description"></p>
-              <p class="issuedDate">${val.issuedDate}</p>
-              <p class="credentialID">${val.credentialID}</p>
-              <a target="_blank"  href="${val.credentialURL}" class="btn btn-outline-secondary" >Show Credential <i class="fa fa-external-link"></i></i></a>
+              <h4 class="title"><a href="${val.credentialURL}">${
+            val.title
+          }</a></h4>
+          ${
+            val.description != ""
+              ? `<p class="description">${val.description}</p>`
+              : ``
+          }
+
+          ${
+            val.issuedDate != ""
+              ? `<p class="issuedDate">${val.issuedDate}</p>`
+              : ``
+          }
+
+          ${
+            val.credentialID != ""
+              ? `<p class="credentialID">${val.credentialID}</p>`
+              : ``
+          }
+             
+             
+             
+              ${
+                val.credentialURL != ""
+                  ? `<a target="_blank"  href="${val.credentialURL}" class="btn btn-outline-secondary" >Show Credential <i class="fa fa-external-link"></i></i></a>`
+                  : ``
+              }
+             
             </div>`
       );
     };
