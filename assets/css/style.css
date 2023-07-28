@@ -893,6 +893,7 @@ margin-left: 20px;
   line-height: 20px;
   font-size: 14px;
   width: 230px;
+ 
 
 }
 .certificate .issuedDate {
@@ -921,7 +922,7 @@ margin-left: 20px;
   font-size: 14px;
   border-radius: 50px;
  
-
+align-self: flex-start;
 
 
 }

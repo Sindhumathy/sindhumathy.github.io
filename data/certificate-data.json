@@ -1,61 +1,223 @@
-[{
-    "id":1,
-    "logo":"google.png",
-    "title":"Google Digital Academy (Skillshop)",
-    "description":"",
-    "issuedDate":"Issued Mar 2022",
-    "credentialID":"Credential ID 109494864",
-    "credentialURL":"https://skillshop.exceedlms.com/profiles/cc9578565b9c4d54a264f3cc23577e61"
+[
+  {
+    "id": 1,
+    "logo": "linkedin.png",
+    "title": "LinkedIn Certified Marketing Insider",
+    "description": "LinkedIn",
+    "issuedDate": "Issued Jun 2023",
+    "credentialID": "Credential ID 67wrrvtomuwi",
+    "credentialURL": "https://verify.skilljar.com/c/67wrrvtomuwi"
+  },
+  {
+    "id": 2,
+    "logo": "google.png",
+    "title": "Google Ads Apps Certification",
+    "description": "Google Digital Academy (Skillshop)",
+    "issuedDate": "Issued Mar 2022",
+    "credentialID": "Credential ID 109494864",
+    "credentialURL": "https://skillshop.exceedlms.com/profiles/cc9578565b9c4d54a264f3cc23577e61"
+  },
+  {
+    "id": 3,
+    "logo": "youtube.png",
+    "title": "YouTube Music Certification",
+    "description": "",
+    "issuedDate": "Issued Sep 2021",
+    "credentialID": "Credential ID 65206496",
+    "credentialURL": "https://skillshop.exceedlms.com/student/award/4m6W8rnR9psovXrrsvZ1vBWe"
+  },
+  {
+    "id": 4,
+    "logo": "googleAds.png",
+    "title": "Google Ads Creative Certification",
+    "description": "",
+    "issuedDate": "Issued Oct 2022",
+    "credentialID": "Credential ID 130389852",
+    "credentialURL": "https://skillshop.credential.net/73088aa2-338c-4c30-8165-83df898e4280"
+  },
+  {
+    "id": 5,
+    "logo": "reuters.png",
+    "title": "Reuters Training Course: Introduction to Digital Journalism",
+    "description": "",
+    "issuedDate": "Issued Aug 2021",
+    "credentialID": "",
+    "credentialURL": "https://reutersdigitaljournalism.com/course_completed?l=en"
+  },
+  {
+    "id": 6,
+    "logo": "google.png",
+    "title": "AdWords Mobile",
+    "description": "Google",
+    "issuedDate": "Issued Aug 2021",
+    "credentialID": "",
+    "credentialURL": ""
+  },
 
-},
-{
-    "id":2,
-    "logo":"youtube.png",
-    "title":"YouTube Music Certification",
-    "description":"",
-    "issuedDate":"Issued Sep 2021",
-    "credentialID":"Credential ID 65206496",
-    "credentialURL":"https://skillshop.exceedlms.com/student/award/4m6W8rnR9psovXrrsvZ1vBWe"
+  {
+    "id": 7,
+    "logo": "google.png",
+    "title": "Google Analytics",
+    "description": "Google",
+    "issuedDate": "Issued Aug 2021",
+    "credentialID": "",
+    "credentialURL": ""
+  },
 
-},
-{
-    "id":3,
-    "logo":"googleAds.png",
-    "title":"Google Ads Creative Certification",
-    "description":"",
-    "issuedDate":"Issued Oct 2022",
-    "credentialID":"Credential ID 130389852",
-    "credentialURL":"https://skillshop.credential.net/73088aa2-338c-4c30-8165-83df898e4280"
+  {
+    "id": 8,
+    "logo": "google.png",
+    "title": "The Digital Garage",
+    "description": "Google",
+    "issuedDate": "Issued Aug 2021",
+    "credentialID": "",
+    "credentialURL": "https://learndigital.withgoogle.com/digitalgarage/"
+  },
 
-},
-{
-    "id":4,
-    "logo":"reuters.png",
-    "title":"Reuters Training Course: Introduction to Digital Journalism",
-    "description":"",
-    "issuedDate":"Issued Aug 2021",
-    "credentialID":"",
-    "credentialURL":"https://reutersdigitaljournalism.com/course_completed?l=en"
+  {
+    "id": 9,
+    "logo": "linkedin.png",
+    "title": "LinkedIN Skill Assessment Badge",
+    "description": "LinkedIn",
+    "issuedDate": "Issued Jun 2023",
+    "credentialID": "",
+    "credentialURL": ""
+  },
 
-},
-{
-    "id":5,
-    "logo":"google-partner.jpg",
-    "title":"Business Exams Certified in GOOGLE PARTNER",
-    "description":"",
-    "issuedDate":"-",
-    "credentialID":"",
-    "credentialURL":"https://www.google.com/partners/become-a-partner/"
+  {
+    "id": 10,
+    "logo": "google.png",
+    "title": "Google My Business",
+    "description": "Google",
+    "issuedDate": "Issued Aug 2018",
+    "credentialID": "",
+    "credentialURL": ""
+  },
 
-},
-{
-    "id":6,
-    "logo":"inbound.webp",
-    "title":"Inbound Certified",
-    "description":"",
-    "issuedDate":"Issued Jun 2021",
-    "credentialID":"-",
-    "credentialURL":"https://app.hubspot.com/academy/achievements/dkfkt74c/en/1/sindhu-mathy/inbound"
+  {
+    "id": 11,
+    "logo": "linkedin.png",
+    "title": "LinkedIn Content and Creative Design",
+    "description": "LinkedIn",
+    "issuedDate": "Issued Jun 2023 · Expires Jun 2025",
+    "credentialID": "Credential ID q6arbvgdbsxn",
+    "credentialURL": "https://verify.skilljar.com/c/q6arbvgdbsxn"
+  },
 
-}
+  {
+    "id": 12,
+    "logo": "linkedin.png",
+    "title": "LinkedIn Marketing Strategy",
+    "description": "LinkedIn",
+    "issuedDate": "Issued Jun 2023 · Expires Jun 2025",
+    "credentialID": "Credential ID naaksrxyguu8",
+    "credentialURL": "https://verify.skilljar.com/c/naaksrxyguu8"
+  },
+
+  {
+    "id": 13,
+    "logo": "googleAds.png",
+    "title": "Grow Offline Sales Certification",
+    "description": "Skillshop",
+    "issuedDate": "Issued Mar 2023 · Expires Mar 2024",
+    "credentialID": "Credential ID 70546654",
+    "credentialURL": "https://skillshop.credential.net/7c2548cb-d766-4261-8710-ced00c620545"
+  },
+
+  {
+    "id": 14,
+    "logo": "googleAds.png",
+    "title": "Grow Offline Sales Certification",
+    "description": "Skillshop",
+    "issuedDate": "Issued Jul 2023 · Expires Jul 2024",
+    "credentialID": "Credential ID 77683169",
+    "credentialURL": "https://skillshop.credential.net/b18fa1c5-b716-45d0-925e-c24683312a45"
+  },
+
+  {
+    "id": 15,
+    "logo": "google.png",
+    "title": "Creative Certification Exam",
+    "description": "Google Digital Academy (Skillshop)",
+    "issuedDate": "Issued Jan 2023 · Expires Jan 2024",
+    "credentialID": "Completion ID: 139863891",
+    "credentialURL": "https://skillshop.exceedlms.com/student/award/arB6RteruadkEJkR9W69XNCb"
+  },
+
+  {
+    "id": 16,
+    "logo": "googleAds.png",
+    "title": "Google Ads Creative Certification",
+    "description": "Skillshop",
+    "issuedDate": "Issued Oct 2022 · Expires Oct 2023",
+    "credentialID": "Credential ID 130389852",
+    "credentialURL": "https://skillshop.credential.net/73088aa2-338c-4c30-8165-83df898e4280"
+  },
+
+  {
+    "id": 17,
+    "logo": "google.png",
+    "title": "Display & Video 360 Certification Exam",
+    "description": "Google",
+    "issuedDate": "Issued Sep 2022 · Expires Sep 2023",
+    "credentialID": "",
+    "credentialURL": "https://skillshop.exceedlms.com/student/award/mCvFdy8thQ6XCKXiMaGRLVZV"
+  },
+
+  {
+    "id": 18,
+    "logo": "google.png",
+    "title": "Creative Certification Exam",
+    "description": "Google",
+    "issuedDate": "Issued Aug 2022 · Expires Aug 2023",
+    "credentialID": "Completion ID: 122858237",
+    "credentialURL": "https://skillshop.exceedlms.com/student/award/Fe5r3JFjAsSRTvSfgbYAzYnU"
+  },
+
+  {
+    "id": 19,
+    "logo": "google-partner.jpg",
+    "title": "Business Exams Certified in GOOGLE PARTNER",
+    "description": "",
+    "issuedDate": "",
+    "credentialID": "",
+    "credentialURL": "https://www.google.com/partners/become-a-partner/"
+  },
+  {
+    "id": 20,
+    "logo": "inbound.webp",
+    "title": "Inbound",
+    "description": "HubSpot Academy",
+    "issuedDate": "Issued Jun 2021 · Expired Jul 2023",
+    "credentialID": "Credential ID e36647a9c0fe44.......",
+    "credentialURL": "https://app.hubspot.com/academy/achievements/dkfkt74c/en/1/sindhu-mathy/inbound"
+  },
+
+  {
+    "id": 21,
+    "logo": "google.png",
+    "title": "AdWords Display",
+    "description": "Google",
+    "issuedDate": "Issued Jun 2021 · Expired Jul 2022",
+    "credentialID": "",
+    "credentialURL": ""
+  },
+  {
+    "id": 22,
+    "logo": "google.png",
+    "title": "AdWords Shopping",
+    "description": "Google",
+    "issuedDate": "Issued Jun 2020 · Expired Jun 2022",
+    "credentialID": "",
+    "credentialURL": ""
+  },
+  {
+    "id": 23,
+    "logo": "google.png",
+    "title": "Adwords",
+    "description": "Google",
+    "issuedDate": "Issued Jun 2021 · Expired Jun 2022",
+    "credentialID": "",
+    "credentialURL": ""
+  }
 ]
