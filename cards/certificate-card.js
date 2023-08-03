@@ -22,12 +22,6 @@ fetch("data/certificate-data.json")
           }
 
           ${
-            val.issuedDate != ""
-              ? `<p class="issuedDate">${val.issuedDate}</p>`
-              : ``
-          }
-
-          ${
             val.credentialID != ""
               ? `<p class="credentialID">${val.credentialID}</p>`
               : ``
