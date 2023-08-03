@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "logo": "linkedin2.png",
+    "logo": "linkedin3.png",
     "title": "linkedin Content Creative Design",
     "description": "LinkedIn",
     "credentialID": "Credential ID q6arbvgdbsxn",
@@ -31,26 +31,6 @@
     "issuedDate": "Issued Mar 2022",
     "credentialID": "Credential ID 109494864",
     "credentialURL": "https://skillshop.exceedlms.com/profiles/cc9578565b9c4d54a264f3cc23577e61"
-  },
-
-  {
-    "id": 5,
-    "logo": "googleAds.png",
-    "title": "Google Ads Creative Certification",
-    "description": "",
-    "issuedDate": "Issued Oct 2022",
-    "credentialID": "Credential ID 130389852",
-    "credentialURL": "https://skillshop.credential.net/73088aa2-338c-4c30-8165-83df898e4280"
-  },
-
-  {
-    "id": 6,
-    "logo": "google.png",
-    "title": "Google Analytics",
-    "description": "Google",
-    "issuedDate": "Issued Aug 2021",
-    "credentialID": "",
-    "credentialURL": ""
   },
 
   {
